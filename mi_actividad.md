@@ -10,3 +10,4 @@ Fecha: 05/11/2026
 ## Objetivo
 
 Aprender a utilizar Git y GitHub para administrar los cambios de un proyecto.
+hola
